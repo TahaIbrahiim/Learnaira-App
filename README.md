@@ -15,7 +15,6 @@ Our platform addresses the challenges of traditional online learning by prioriti
 - Course Content in PDF and Video Formats: Providing diverse and accessible learning materials for students.
 - User-Friendly Interface for Exams: Simplified navigation for taking exams and reviewing results, with AI-powered grading techniques.
 - Full Exam Management by Instructors: Enabling instructors to create, manage, and review exams efficiently.
-- Private Chats & Online Discussions: Enabling secure communication channels for enhanced collaboration and engagement.
 - Admin Management: Full website management by administrators to oversee and control platform operations.
 
 🛠 Tools & Technologies:
