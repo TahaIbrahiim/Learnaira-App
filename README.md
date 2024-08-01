@@ -22,3 +22,5 @@ Our platform addresses the challenges of traditional online learning by prioriti
 - Frontend: HTML5, CSS, JavaScript, Bootstrap, Sass, Pugjs
 - AI: Python, JavaScript, Flask, PyTorch, TensorFlow, scikit-learn, spaCy, NLTK
 
+
+-The video of my Project : https://www.linkedin.com/posts/yahya-hamza-923575220_excited-to-share-the-culmination-of-our-activity-7212495691611312128-qlet?utm_source=share&utm_medium=member_desktop
