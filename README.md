@@ -18,7 +18,7 @@ Our platform addresses the challenges of traditional online learning by prioriti
 - Admin Management: Full website management by administrators to oversee and control platform operations.
 
 🛠 Tools & Technologies:
-- Backend: ASP.NET MVC, Entity Framework Core, SQL Server, C#
+- Backend: C#, ASP.NET MVC, Entity Framework Core, SQL Server, Sessions, Cookies
 - Frontend: HTML5, CSS, JavaScript, Bootstrap, Sass, Pugjs
 - AI: Python, JavaScript, Flask, PyTorch, TensorFlow, scikit-learn, spaCy, NLTK
 
